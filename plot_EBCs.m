@@ -1,5 +1,6 @@
 %% plot EBCs using spike data
 % This file is used in main.m
+% 'CMBHOME' toolbox is required to run this script. Available from https://github.com/hasselmonians/CMBHOME
 % Author: Yanbo Lian
 
 %% Spatial rate map from spike data
